@@ -1,6 +1,2 @@
 Flask
 Gunicorn
-$ ruby -v
-ruby 3.0.1
-$ sqlite3 --version
-$ gem install rails
