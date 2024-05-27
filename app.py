@@ -56,3 +56,5 @@ def after_request(responce):
     "modify responce header"
     responce.headers.update(headers)
     return responce
+
+app.run(debug=True, host='0.0.0.0', port=8000)
